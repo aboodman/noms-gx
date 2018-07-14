@@ -20,7 +20,7 @@ import (
 	"github.com/attic-labs/noms/go/util/profile"
 	"github.com/attic-labs/noms/go/util/verbose"
 
-	flag "github.com/juju/gnuflag"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 var commands = []*util.Command{

@@ -16,7 +16,7 @@ import (
 	"github.com/attic-labs/noms/go/datas"
 	"github.com/attic-labs/noms/go/spec"
 	"github.com/attic-labs/noms/go/util/verbose"
-	flag "github.com/juju/gnuflag"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 var allowDupe bool

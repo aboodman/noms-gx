@@ -6,6 +6,14 @@
   "gx": {
     "dvcsimport": "github.com/attic-labs/noms"
   },
+  "gxDependencies": [
+    {
+      "author": "aa",
+      "hash": "QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A",
+      "name": "gnuflag",
+      "version": "0.0.0"
+    }
+  ],
   "gxVersion": "0.12.1",
   "language": "go",
   "license": "",

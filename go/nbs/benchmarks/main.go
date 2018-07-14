@@ -21,8 +21,8 @@ import (
 	"github.com/aws/aws-sdk-go/service/dynamodb"
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/dustin/go-humanize"
-	flag "github.com/juju/gnuflag"
 	"github.com/stretchr/testify/assert"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 var (

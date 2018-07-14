@@ -11,7 +11,7 @@ import (
 	"github.com/attic-labs/noms/cmd/util"
 	"github.com/attic-labs/noms/go/config"
 	"github.com/attic-labs/noms/go/d"
-	flag "github.com/juju/gnuflag"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 var nomsConfig = &util.Command{

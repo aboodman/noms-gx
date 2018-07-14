@@ -26,8 +26,8 @@ import (
 	"github.com/attic-labs/noms/go/util/outputpager"
 	"github.com/attic-labs/noms/go/util/verbose"
 	"github.com/attic-labs/noms/go/util/writers"
-	flag "github.com/juju/gnuflag"
 	"github.com/mgutz/ansi"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 var (

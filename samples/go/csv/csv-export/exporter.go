@@ -15,7 +15,7 @@ import (
 	"github.com/attic-labs/noms/go/util/profile"
 	"github.com/attic-labs/noms/go/util/verbose"
 	"github.com/attic-labs/noms/samples/go/csv"
-	flag "github.com/juju/gnuflag"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 func main() {

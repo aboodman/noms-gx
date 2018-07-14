@@ -11,8 +11,8 @@ import (
 
 	"github.com/attic-labs/noms/go/d"
 	"github.com/attic-labs/noms/go/util/exit"
-	flag "github.com/juju/gnuflag"
 	"github.com/stretchr/testify/suite"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 const DefaultMemTableSize = 8 * (1 << 20) // 8MB

@@ -9,9 +9,9 @@ import (
 	"log"
 	"os"
 
-	flag "github.com/juju/gnuflag"
 	"golang.org/x/net/context"
 	"golang.org/x/oauth2"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 func main() {

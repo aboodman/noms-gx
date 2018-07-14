@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/attic-labs/noms/go/util/exit"
-	flag "github.com/juju/gnuflag"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 func CheckError(err error) {

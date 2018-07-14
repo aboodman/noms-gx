@@ -16,8 +16,8 @@ import (
 
 	"github.com/codahale/blake2"
 	humanize "github.com/dustin/go-humanize"
-	flag "github.com/juju/gnuflag"
 	"github.com/kch42/buzhash"
+	flag "gx/ipfs/QmQLaYRd41dEe13kYwHtKBfXkkZuXzAEsKz56FA17NNT8A/gnuflag"
 )
 
 func main() {
