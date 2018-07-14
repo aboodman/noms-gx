@@ -1,0 +1,16 @@
+{
+  "author": "aa",
+  "bugs": {
+    "url": "https://github.com/attic-labs/noms"
+  },
+  "gx": {
+    "dvcsimport": "github.com/attic-labs/noms"
+  },
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "noms",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "7.18.0"
+}
+
